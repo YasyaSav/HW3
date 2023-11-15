@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+s=0
+for elem in range(a,b):
+    s+=elem
+print(s)
